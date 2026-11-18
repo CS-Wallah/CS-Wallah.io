@@ -1,0 +1,71 @@
+PROMPT FOR GEMINI:
+Create a clean, modern, and responsive static personal portfolio website using only pure HTML5 and CSS3 (in `index.html` and `style.css` files). Use the exact profile information, education, world-class skills, work experience, and featured projects provided below. Assume profile image is located at `assets/images/profile.jpg` and organization logo is at `assets/images/webtech-logo.jpg`.
+
+====================================================================
+PORTFOLIO DATA & PROFILE SPECIFICATION
+====================================================================
+
+1. PERSONAL INFORMATION
+Full Name:           David J Malan
+Professional Title:  Python Full-Stack Developer | AWS Solutions Architect | Network Engineer | Data Scientist
+Current Location:    Bengaluru, Karnataka, India
+Contact Email:       david@cs-wallah.com
+Contact Number:      9876543214
+GitHub Profile:      https://github.com/CS-Wallah
+Primary Focus:       Architecting scalable full-stack web applications with Python and Django, designing resilient cloud infrastructure on AWS, engineering high-availability networks, and building data-driven machine learning solutions.
+
+2. EDUCATION
+Degree:              B.Tech in Computer Science and Engineering (CSE)
+Institution:         Harvard University
+
+3. PROFESSIONAL TRAINING & BACKGROUND
+Role Status:         Trainee / Full-Stack Intern & Multi-Domain Technologist
+Focus Area:          Python Full-Stack Development, Cloud Architecture (AWS), Network Engineering, Data Science, and Frontend UI/UX Design
+
+4. WORK EXPERIENCE & INTERNSHIPS
+Role:                Python Full-Stack Developer Trainee
+Organization:        CS_wallah at youtube https://www.youtube.com/channel/UC8PptJS6pMwrefG662zkpdg
+Key Responsibilities:
+- Developed robust backend logic using Python and the Django web framework.
+- Managed local virtual environment configurations and terminal operations.
+- Designed responsive, multi-column frontend interfaces using HTML5 and CSS3.
+- Managed source code versions, CI/CD workflows, and documentation uploads using Git and GitHub.
+
+5. WORLD-CLASS TECHNICAL SKILLS
+Core Domains:        Python Full-Stack Development, Solutions Architect on AWS, Network Engineering, Data Science
+Programming:         Python 3, JavaScript, SQL
+Backend & Cloud:     Django, AWS (EC2, S3, VPC, IAM, Lambda, RDS)
+Networking:          TCP/IP, DNS, Routing & Switching, Firewalls, Load Balancing, Network Security
+Data Science & AI:   Data Analysis, Machine Learning, Pandas, NumPy, Statistical Modeling
+Frontend Tools:      HTML5, CSS3, Responsive Layout Design
+Databases:           SQLite3, PostgreSQL
+Tools & DevOps:      Git, GitHub, GitHub Actions, Visual Studio Code, Postman, Linux/macOS Terminal
+
+6. FEATURED PROJECTS
+
+Project 1: Google Project (Full-Stack Web Application)
+Description:         A modular web application featuring multiple responsive layout templates (including YouTube, Google Maps, and Google Photos clones).
+Technologies Used:   Python 3, Django, HTML5, CSS3, SQLite3
+Repository Link:     https://github.com/CS-Wallah/Django-project-bluprint.git
+Features Built:
+- Multi-division footer layouts with stacked link structures.
+- Interactive top headers and navigation bars.
+- Dynamic grid layouts for modern web app interfaces.
+
+Project 2: Binary Search Project (Algorithms & Interactive Logic)
+Description:         An algorithmic implementation and visual demonstration of the Binary Search algorithm optimized for fast $O(\log n)$ lookups.
+Technologies Used:   Python 3, Data Structures & Algorithms, HTML5, CSS3
+Repository Link:     https://github.com/CS-Wallah/Binary-Search-Project.git
+Features Built:
+- Efficient divide-and-conquer search logic on sorted datasets.
+- Step-by-step index tracking and performance efficiency analysis.
+- Clean documentation and modular code structure hosted on GitHub.
+
+====================================================================
+DESIGN & LAYOUT INSTRUCTIONS FOR GEMINI
+====================================================================
+- Create a sticky navigation bar with links to About, Education, Skills, Experience, Projects, and Contact.
+- Include a hero section featuring David J Malan's name, multi-disciplinary titles, profile photo (`assets/images/profile.jpg`), and call-to-action buttons (View Projects / Contact Me).
+- Present the 4 World-Class Skill pillars (Python Full Stack, Solution Architect on AWS, Network Engineer, Data Scientist) as distinct visual cards.
+- Display both Featured Projects with clickable GitHub repository buttons linking to the exact URLs above.
+- Ensure the layout is mobile-friendly and ready for direct deployment via GitHub Pages.

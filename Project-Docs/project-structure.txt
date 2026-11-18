@@ -1,0 +1,10 @@
+portfolio/
+├── .github/
+│   └── workflows/
+│       └── deploy.yml
+├── assets/
+│   └── images/
+│       ├── profile.jpg       <-- Rename your uploaded photo (dilip-profile.jpeg) to this
+│       └── webtech-logo.jpg  <-- Rename the company logo (com-logo_2.jpg) to this
+├── index.html
+└── style.css
